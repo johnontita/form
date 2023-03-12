@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing:none;
+}
+.navbar{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: crimson;
+    align-items: center;
+    top: 10vh;
+    align-items: center;
+    padding: 1%;
+    text-align: center;
+    
+   
+   
+}
+.list{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+.box1{
+    background-color: darkcyan;
+    padding: 100px;
+    width: 70px;
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 50vh;
+    width: 40vh;
+    align-items: center;
+    justify-content: space-around;
+    margin-top:20px;
+    border-radius: 20px;
+ 
+}
+.a{
+    font-size: 40px;
+    text-decoration: none;
+    text-transform: none;
+    color: black;
+    
+}
+
+
+.nav p{
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.email{
+    padding:12px 12px;
+    margin-top:40px;
+    border-radius: 6px;
+    border: none;
+}
+.password{
+    padding:12px 12px;
+    margin-top:40px;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 20px;
+}
+.submit{
+    margin-top: 40px;
+    align-content: center;
+    margin-left: 40px;
+    padding: 10px 50px;
+    border-radius: 6px;
+    border: none;
+}
+section p{
+    font-size: 30px;
+}
+.gender{
+    font-size:40px;
+}
+
